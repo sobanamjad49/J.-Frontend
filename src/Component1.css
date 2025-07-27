@@ -1,0 +1,108 @@
+.c1{
+   color: black;
+
+}
+#comp2{
+ 
+   height: 50px;
+}
+
+#src2{
+ 
+   margin-top: 40px;
+
+}
+#src4{
+
+   margin-top: 75px;
+
+}
+#src5{
+     margin-top: 10px;
+  
+  }
+  #src6{
+
+ margin-top: 84px;
+  
+  }
+
+  #src7{
+
+ margin-top: 1px;
+  
+  }
+#txt{
+text-decoration: underline;
+   font-size: 30px;
+   margin-top: 50px;
+}
+#txt1{
+ font-weight: 900;
+      font-size: 40px;
+      margin-top: 20px;
+   }
+   /*sky night*/
+#hell{
+  top: 60px;
+  left: 1000px;
+   position: absolute;
+   height: 100px;
+   width: 100px;
+   background-color: white;
+   border-radius: 50px;
+   
+}
+/* #box1{
+  
+   height: 590px;
+   width: 1270px;
+   an1ation-name: web;
+   animation-duration: 8s;
+   animation-iteration-count: infinite;
+   animation-direction: alternate;
+}
+#box2{
+   animation-iteration-count: infinite;
+   animation-direction: alternate;
+  margin-left: 1000px;
+   animation-name: web58;
+   animation-duration: 8s;
+   position: absolute;
+}
+@keyframes web {
+   from{
+      height: 590px;
+      width: 1270px;
+      background-image: url('https://th.bing.com/th/id/OIP.2quPS8NWqNacme4YgyfsgwHaEo?w=1680&h=1050&rs=1&pid=ImgDetMain');
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+   } to{
+height: 590px;
+width: 1270px;
+background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/HD-Pictures-Night-Sky.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+}
+}
+@keyframes web58 {
+   from{
+top: 50px;
+border-radius: 50px;
+height: 100px;
+width: 100px;
+background-color: yellow;
+
+   }
+   to{
+      top: 50px;
+     
+border-radius: 50px;
+height: 100px;
+width: 100px;
+background-color: whitesmoke;
+
+   }
+} */
+

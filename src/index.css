@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dashboard-card {
+  @apply bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow;
+}
+
+.data-table {
+  @apply min-w-full divide-y divide-gray-200;
+}
+
+.status-badge {
+  @apply px-2 inline-flex text-xs leading-5 font-semibold rounded-full;
+}

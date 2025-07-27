@@ -1,0 +1,23 @@
+ #n1{
+   
+ height: 560px;
+ width: 1280px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.6) 100%), 
+ url('https://www.pcworld.com/wp-content/uploads/2024/12/Netflix-Hintergrund.jpg?quality=50&strip=all');
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black overlay */
+  background-blend-mode: overlay;
+ } 
+ 
+.qq{
+    background: linear-gradient(149deg, #192247 0%, #210e17 96.86%);
+height: 250px;
+border-radius: 10px;
+padding: 10px;
+margin-top: 10px;
+}
+.custom-input::placeholder {
+    color: white;  /* Change placeholder text color to white */
+  }
+  
