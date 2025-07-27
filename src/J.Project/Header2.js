@@ -142,7 +142,7 @@ function Header2() {
               {" "}
               <img
                 className="mt-4 "
-                src="https://www.junaidjamshed.com/media/catalog/product/2/5/25-183_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755&dpr=2"
+                src="https://www.junaidjamshed.com/media/catalog/product/j/t/jtp-25-606_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=755&width=589&canvas=589:755&dpr=2"
               />
               <button className="p-2 border-2 border-black  hover:bg-black hover:text-white w-full  mt-3 text-lg font-body  font-bold">
               Suit
